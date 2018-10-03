@@ -1,2 +1,2 @@
-FROM quay.io/coreos/flannel:v0.10.0
+FROM quay.io/coreos/flannel-cni:v0.3.0
 MAINTAINER baohua.wang <28997534@qq.com>
