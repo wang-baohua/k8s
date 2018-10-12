@@ -1,2 +1,2 @@
-FROM quay.io/coreos:v1.7.6_coreos.0
+FROM quay.io/coreos/hyperkube:v1.7.6_coreos.0
 MAINTAINER mritd <mritd@mritd.me>
