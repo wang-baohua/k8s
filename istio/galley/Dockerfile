@@ -1,2 +1,2 @@
-FROM gcr.io/istio-release/galley:1.1.0.snapshot.1
-MAINTAINER mritd <mritd@mritd.me>
+FROM docker.io/istio/galley:1.0.5
+MAINTAINER wangbh <28997534@qq.com>
