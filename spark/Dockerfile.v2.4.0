@@ -1,0 +1,4 @@
+FROM k8s.gcr.io/spark:2.3.3
+MAINTAINER baohua.wang <28997534@qq.com>
+
+
