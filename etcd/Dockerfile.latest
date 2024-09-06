@@ -1,2 +1,0 @@
-FROM quay.io/coreos/etcd:latest
-MAINTAINER baohua.wang <28997534@qq.com>
